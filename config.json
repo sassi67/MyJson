@@ -1,0 +1,38 @@
+{
+    "configName": "Simulator Example",
+    "numberOfSystems": 1,
+    "numberOfRooms": 10,
+    "systems":
+    [
+        {
+            "systemName": "Impianto 1",
+            "type": "1",
+            "rooms":
+            [
+                {
+                    "roomName": "Zona 1",
+                    "type": "1"
+                },
+                {
+                    "roomName": "Zona 2",
+                    "type": "2"
+                }
+            ]
+        },
+        {
+            "systemName": "Impianto 2",
+            "type": "1",
+            "rooms":
+            [
+                {
+                    "roomName": "Zona 3",
+                    "type": "1"
+                },
+                {
+                    "roomName": "Zona 4",
+                    "type": "2"
+                }
+            ]
+        }
+    ]
+}
